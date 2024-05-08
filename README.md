@@ -1,6 +1,6 @@
 # Winner
-17 year old CS Major. I like coding. Currently learning Javascript and Kotlin
-Love Anime and Manga :)
+17 year old CS Major. I like coding. Currently learning Javascript and Kotlin.
+I love Anime and Manga :)
 
 # Technologies
 - React
@@ -8,4 +8,5 @@ Love Anime and Manga :)
 - Node JS
 - Express JS
 - MongoDB
+- Kotlin
 - Jetpack Compose

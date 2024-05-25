@@ -3,10 +3,9 @@
 I love Anime and Manga :)
 
 # Technologies
-- React
+- React JS
 - Tailwind
 - Node JS
 - Express JS
 - MongoDB
-- Kotlin
-- Jetpack Compose
+- Next JS

@@ -1,5 +1,5 @@
 # Winner
-17 year old CS Major. I like coding. Currently learning Typescript and Python.
+17 year old CS Major. I like coding. Currently and Java.
 
 # Technologies
 - Typescript

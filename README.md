@@ -1,5 +1,5 @@
 # Winner
-17 year old CS Major. I like coding. Currently Java.
+I'm Winner a full stack software enginner. Currently Java.
 
 # Technologies
 - Typescript

@@ -7,6 +7,8 @@ I'm Winner a full stack software enginner. Currently Java.
     React JS
     Tailwind CSS
     Node JS
+    PostgreSQL
+    Prisma ORM
     Express JS
     MongoDB
     Next JS

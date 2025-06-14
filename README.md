@@ -3,14 +3,9 @@
 
 ### Software Developer
 
-- Typescript Developer
-- Passion for Javascript
+- I like java, go and typescript
+- Passion for debugging
 - I try not to overthink too much
-
-### plans for 2025: 
-- Learn Java
-- Learn Go
-- Master spring boot
 
 ### Winner
 

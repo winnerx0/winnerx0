@@ -3,9 +3,8 @@
 
 ### Software Developer
 
+- CS Major
 - I like java, go and typescript
-- Passion for debugging
-- I try not to overthink too much
 
 ### Winner
 

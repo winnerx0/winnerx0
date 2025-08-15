@@ -1,12 +1,12 @@
-# Hi there, I'm Winner! 👋
+# Winner
 
 ## 🚀 About Me
 **Software Developer** passionate about building scalable solutions and exploring new technologies.
 
-- 🎓 **Computer Science Graduate** with a strong foundation in software engineering
+- 🎓 **Computer Science Student** with a strong foundation in software engineering
 - 💻 **Tech Stack:** Java, Go, TypeScript
 - 🌱 Currently exploring modern development practices and system architecture
-- ⚡ Always eager to collaborate on innovative projects
+- ⚡ Building fun and innovative ideas
 
 ## 🛠️ Technologies & Tools
 

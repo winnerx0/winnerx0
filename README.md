@@ -42,6 +42,3 @@
 - 🌐 Creating efficient microservices using **Go**
 - 🎨 Developing modern web applications with **TypeScript & React**
 - 📚 Learning cloud-native development and DevOps practices
-- 
----
-⭐️ From [winnerx0](https://github.com/winnerx0)
